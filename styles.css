@@ -1,0 +1,76 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #E5E5E5;
+  color: #8D857A;
+  text-align: center;
+  max-height: 5%;
+  font-size: .5em;
+  margin-bottom: 0;
+}
+body{
+  background-image: url("images/groceries.jpg");
+  background-size: 100%;
+  color: white;
+  
+}
+h1{
+	font-family: 'Libre Barcode 39 Text', cursive;
+	color: #211426 !important;
+	font-size: 5em;
+}
+form{
+	color: #211426 !important;
+	font-family: 'Noto Sans', sans-serif;
+}
+h3{
+	color: #211426 !important;
+	font-family: 'Noto Sans', sans-serif;
+}
+h2{	
+	font-size: 3em;
+	font-family:  'Quicksand', sans-serif;
+}
+hr{
+	border-color: #211426 !important;
+}
+.submit{
+        color: #f3fbff !important;
+        font-family: 'Noto Sans', sans-serif;
+	background-color: #211426;
+	border-color: #211426;
+	margin: 1em;
+	padding: .5em;
+}
+.input{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: .5em;
+}
+.headings{
+	background-color: #955ba5;
+	margin: 0 auto;
+	width: 50%;
+	padding: 1em;
+	text-align: center;
+}
+.manu{
+	font-family:  'Quicksand', sans-serif;
+	font-size: .75em;
+}
+.item{
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	color: #211426;
+	font-size: 1.5em;
+}
+/*
+font-family: 'Libre Barcode 39 Text', cursive;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Staatliches', cursive;
+font-family: 'Fjalla One', sans-serif;
+ */
